@@ -1,1 +1,16 @@
-done this file using google arcade cohort 2
+• My Hugo Site
+This repository contains a personal website built using Hugo, Hugo generates static web pages from templates, making websites easy to deploy.
+
+• About the Project
+The purpose of this project is to learn how to build and manage a static website using Hugo. The site includes structured content, configuration files that together generate a complete website.
+
+• Tech Stack
+Hugo,HTML,CSS
+
+• How to Run
+Clone the repository:
+Run the Hugo development server:
+Open in browser:
+
+• Author
+K Sibasish Subudhi
