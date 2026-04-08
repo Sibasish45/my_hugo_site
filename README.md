@@ -1,6 +1,6 @@
 • My Hugo Site
 This repository contains a personal website built using Hugo, Hugo generates static web pages from templates, making websites easy to deploy.
-
+I had done while doing a task in google arcade labs
 • About the Project
 The purpose of this project is to learn how to build and manage a static website using Hugo. The site includes structured content, configuration files that together generate a complete website.
 
